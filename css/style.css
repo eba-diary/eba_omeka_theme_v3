@@ -1730,11 +1730,7 @@ h1, h2, h3
 	color: #1b1a1a;
 	font-size: 24px;
 }
-a:link, a:visited
-{
-	color: #1b1a1a;
-	text-decoration: none;
-}
+
 a:hover
 {
 	color: #009ACC;
