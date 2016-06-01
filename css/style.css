@@ -2138,3 +2138,7 @@ a#advanced-search
 	font-size:.8em;
 	padding: 0px;
 }
+
+.eba_viewer{
+	height: 200px;
+}
